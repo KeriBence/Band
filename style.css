@@ -88,3 +88,7 @@
 .modal-header, .modal-body {
     padding: 40px 50px;
 }
+
+.nav-tabs li a {
+    color: #777;
+}
